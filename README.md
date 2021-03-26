@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👨🏽‍💻
+
+- 🔭 I’m currently working on amazing projects based in PHP 🤖
+
 
 <!--
 **FraGoTe/FraGoTe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
