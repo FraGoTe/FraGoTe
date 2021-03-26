@@ -1,6 +1,6 @@
 ### Hi there 👨🏽‍💻
 
-- 🔭 I’m currently working on amazing projects based in PHP 🤖
+🔭 I’m currently working on amazing projects based in PHP 🤖
 
 
 <!--
